@@ -2,4 +2,4 @@
 Bienvenue
 ## Mon histoire
 
-[lien vers la deuxième page](second page) 
+[lien vers la deuxième page](second_page) 
