@@ -1,4 +1,5 @@
-# Un pays, une histoire
+<p align="center">
+  # Un pays, une histoire
 Bienvenue au Vietnam
 ## Une petite introduction ? Ça vous dit ?
 
