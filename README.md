@@ -6,4 +6,6 @@ Bienvenue au Vietnam
 
 [tu veux voir la troisème page ?](dossierprincipal/troisieme_page)
 
+### Un rizière
+
 ![image](riziere.jpg)
