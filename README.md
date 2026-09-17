@@ -6,4 +6,4 @@ Bienvenue
 
 [tu veux voir la troisème page ?](dossierprincipal/troisieme_page)
 
-![image](rizviet)
+
