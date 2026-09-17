@@ -1,6 +1,7 @@
 <p align="center">
-  # Un pays, une histoire
-Bienvenue au Vietnam
+Un pays, une histoire
+
+  Bienvenue au Vietnam
 ## Une petite introduction ? Ça vous dit ?
 
 [lien vers la deuxième page](dossierprincipal/second_page) 
